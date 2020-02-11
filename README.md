@@ -1,4 +1,4 @@
-UNCG InfoSec Club
+# UNCG InfoSec Club
 
 ----------
 
@@ -48,56 +48,52 @@ UNCG InfoSec Club
 
 ----------
 
-# About
+## About
 
 We are an [Official Club](https://uncg.campuslabs.com/engage/organization/infosecclub) dedicated to CyberSecurity topics. We are students at [University of North Carolina Greensboro](https://www.uncg.edu/). We compete in cybersecurity challenges like CTFs and Cyber Leagues.  
   
 
 ----------
 
-# Projects
+## Projects
 
-## The Lab
+### The Lab
 
-## CTFs
+### CTFs
 
-## Challenges
-
-# 
+### Challenges
 
 ----------
 
-# Events
+## Events
 
-## Tracer FIRE
+### Tracer FIRE
 
-## bSides Triad
+### bSides Triad
 
-## WakeHacks
-
-## 
+### WakeHacks
 
 ----------
 
-# Links
+## Links
 
-## Homepage
+### Homepage
 
 WIP
 
-## Slack
+### Slack
 
-### [Click here to join!](https://uncg-infosec.slack.com)
+#### [Click here to join!](https://uncg-infosec.slack.com)
 
 We use a free slack server. If you are a UNCG student interested in more information, please use the link underneath the sign in box to sign in using your Single Sign On University ID.
 
-## Discord
+### Discord
 
-### [Click here to join!](https://discord.gg/g3dYgts)
+#### [Click here to join!](https://discord.gg/g3dYgts)
 
 We operate a Discord Server for general or quick discussion plus voice chat. Feel free to join and chat. Please ask an officer for a role.
 
-## Club Page
+### Club Page
 
 This is our [SpartanConnect](https://uncg.campuslabs.com/engage/organization/infosecclub) page with offical contact information.
 
