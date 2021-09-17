@@ -1,5 +1,3 @@
-(Logo goes here)
-
 # UNCG InfoSec Club Wiki
 
 - [Introduction](#introduction)
