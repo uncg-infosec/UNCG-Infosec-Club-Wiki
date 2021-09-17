@@ -1,85 +1,86 @@
-# UNCG InfoSec Club
+(Logo goes here)
 
-----------
+# UNCG InfoSec Club Wiki
 
-  
+- [Introduction](#introduction)
+- [What is Information Security?](#getting-up-to-speed)
+- [Club Events](#club-events)
+  - [Training](#technology-and-information-security-training)
+  - [Guest Speakers](#voices-of-the-industry)
+  - [CTF](#capture-the-flag-ctf-events)
+- [Club Links](#links)
 
-- [About](https://docs.google.com/document/d/12gdfLRCukmUHfOsW_WA1Q0gE67MUWVGzM0p7EaYNFWQ/edit#heading=h.hfn1r5deqdb9)
-    
--  [Projects](https://docs.google.com/document/d/12gdfLRCukmUHfOsW_WA1Q0gE67MUWVGzM0p7EaYNFWQ/edit#heading=h.lwj2h7sslqvo) 
-   - [The Lab](https://docs.google.com/document/d/12gdfLRCukmUHfOsW_WA1Q0gE67MUWVGzM0p7EaYNFWQ/edit#heading=h.szirtalpluye)
-    
-   -   [CTFs](https://docs.google.com/document/d/12gdfLRCukmUHfOsW_WA1Q0gE67MUWVGzM0p7EaYNFWQ/edit#heading=h.1bscpgvpgs84)
-    
-   -   [Challenges](https://docs.google.com/document/d/12gdfLRCukmUHfOsW_WA1Q0gE67MUWVGzM0p7EaYNFWQ/edit#heading=h.86p9orz48nri)
-    
+## Introduction
 
--   [Events](https://docs.google.com/document/d/12gdfLRCukmUHfOsW_WA1Q0gE67MUWVGzM0p7EaYNFWQ/edit#heading=h.rlhkspe9mgzw)
-    
- 
-    -   [Tracer FIRE](https://docs.google.com/document/d/12gdfLRCukmUHfOsW_WA1Q0gE67MUWVGzM0p7EaYNFWQ/edit#heading=h.iszsypaad38f)
-    
-    -   [bSides Triad](https://docs.google.com/document/d/12gdfLRCukmUHfOsW_WA1Q0gE67MUWVGzM0p7EaYNFWQ/edit#heading=h.91iyq56gygdk)
-    
-    -   [WakeHacks](https://docs.google.com/document/d/12gdfLRCukmUHfOsW_WA1Q0gE67MUWVGzM0p7EaYNFWQ/edit#heading=h.tfx3ibj796z2)
-    
+### First things first
 
--   [Links](https://docs.google.com/document/d/12gdfLRCukmUHfOsW_WA1Q0gE67MUWVGzM0p7EaYNFWQ/edit#heading=h.nla6p77qrlmx)
-    
+Welcome to the UNCG InfoSec wiki! InfoSec is an [Official Club](https://uncg.campuslabs.com/engage/organization/infosecclub) at the [University of North Carolina Greensboro](https://www.uncg.edu/) that consists of students from all backgrounds and from all levels of experience who have a common interest in all that falls under the umbrella term 'information security'. Together, we educate each other on the current practices and paradigms of the growing industry of information security. We do this through various means, such as engaging in guided discussions, listening to industry professional guest speakers, and taking part in various events that let us dip our toes - and one day flex our muscles - in the professional world of information security.
 
-    -   [Homepage](https://docs.google.com/document/d/12gdfLRCukmUHfOsW_WA1Q0gE67MUWVGzM0p7EaYNFWQ/edit#heading=h.fmjqz22y1vxy)
-    
-    -   [Slack](https://docs.google.com/document/d/12gdfLRCukmUHfOsW_WA1Q0gE67MUWVGzM0p7EaYNFWQ/edit#heading=h.5l4hrv9wiw5c)
-    
+### Am I a right fit for this club?
 
-        -   [Click here to join!](https://docs.google.com/document/d/12gdfLRCukmUHfOsW_WA1Q0gE67MUWVGzM0p7EaYNFWQ/edit#heading=h.612g3fmq4vd6)
-    
+If you like learning and enjoy working through brain tickling puzzles, then you certainly are! Students from all majors are welcome, though due to the nature of the subject matter at hand, it is highly reccomended that prospective new members have a basic familiarity and confidence with using computers. While having a background in computer science and experience with alternative OS'es like Linux is certainly a plus that will allow you to hit the ground running, it isn't a requirement, as resources can be provided to you to help get you up to speed enough to take part in club activities AND have fun doing it!
 
-    -   [Discord](https://docs.google.com/document/d/12gdfLRCukmUHfOsW_WA1Q0gE67MUWVGzM0p7EaYNFWQ/edit#heading=h.6gt4sa2q1tl1)
-    
+## Getting up to speed
 
-        -   [Click here to join!](https://docs.google.com/document/d/12gdfLRCukmUHfOsW_WA1Q0gE67MUWVGzM0p7EaYNFWQ/edit#heading=h.7dd11ru00y9x)
-    
+### So, what exactly is 'InfoSec'?
 
-    -   [Club Page](https://docs.google.com/document/d/12gdfLRCukmUHfOsW_WA1Q0gE67MUWVGzM0p7EaYNFWQ/edit#heading=h.2v416v770sjo)
-    
+'Infosec' stands for Information Security, and is often confused with 'cybersecurity', though in all actuality infosec is just a part of the wider realm of cybersecurity. 
 
-  
+While cybersecurity revolves around all things that has to do with security in technology, infosec focuses specifically on preventing unauthorized access, use, disclosure, disruption, modification, inspection, recording or destruction of information, both in the digital and physical realm. Information can be anything, such as your social security number, login credentials to a company website, or even all of the patient medical data stored on a hospital's closed network database.
 
-----------
+In an information driven world with ever-advancing technology, a war is being waged between those that have information they need to safeguard, and those who would do anything to gain access to or destroy that safeguarded information for their own benefit. Because of this, the breadth of infosec spans many different disciplines, including cryptography, mobile computing, cyber forensics, online social media, etc.
 
-## About
+While infosec may seem like an issue solely of the 21st century, in all reality, infosec has been relevant ever since the first human being needed to keep a secret!
 
-We are an [Official Club](https://uncg.campuslabs.com/engage/organization/infosecclub) dedicated to CyberSecurity topics. We are students at [University of North Carolina Greensboro](https://www.uncg.edu/). We compete in cybersecurity challenges like CTFs and Cyber Leagues.  
-  
+### The big three
 
-----------
+Infosec revolves around 3 main concepts that are known as the CIA (no, not *that* CIA):
 
-## Projects
+- **Confidentiality** - Information should not be disclosed to unauthorized individuals, entities and/or processes.
+- **Integrity** - Information should maintain accuracy and completeness both during intended use, and during storage.
+- **Availability** - Information should always be available to those in the need-to-know, whenever they need to know.
 
-### The Lab
+### Security Measures
 
-### CTFs
+(under construction)
 
-### Challenges
+\**Phew*\* Now that that's out of the way, lets move on to the fun stuff...
 
-----------
+## Club Events
 
-## Events
+### So like, what do we actually do?
 
-### Tracer FIRE
+Glad you asked! The club currently meets on a bi-weekly schedule (TBA) to do a plethora of things that have to do with information security:
 
-### bSides Triad
+#### Technology and Information Security Training
 
-### WakeHacks
+Everyone needs a refresher once in a while, so it can be expected that there will be a smattering of student-lead training in various concepts such as using Linux and its various security related tools, database security, cryptography, etc.
 
-----------
+#### Voices of the industry
+
+There is nothing like the real deal! The world of information security is constantly evolving, and it is for this reason that it is always important to hear up to date information from those leading industry professionals who are heading the charge in the professional realm. Knowing this, we always are looking to invite guest speakers who are willing to share their knowledge with us. (If you know someone in the information security realm who you believe would be apt and willing to be a guest speaker at an infosec meeting, [let us know via email](mailto:admesa@uncg.edu)!)
+
+#### Capture The Flag (CTF) events
+
+(under construction)
+
+#### Lab Shenanigans
+
+Did you know that InfoSec has a dedicated lab specifically for the express purpose of building, testing, and possibly breaking software and technology? That's right! We will often meet in our secret InfoSec lab located in the Petty building so that we can get hands-on experience with the tools-of-the-trade, allowing everyone free access to the proper tools needed to explore information security. 
+
+#### Local and Online Events
+
+(under construction)
+
+#### Have an idea for an event?
+
+If you have an idea for an event that you think would be beneficial to the UNCG InfoSec community, [reach out to us via email](mailto:admesa@uncg.edu), or just bring it up to an officer during one of our meetings and we will be more than happy to look into it!
 
 ## Links
 
 ### Homepage
 
-WIP
+(under construction)
 
 ### Slack
 
@@ -97,5 +98,5 @@ We operate a Discord Server for general or quick discussion plus voice chat. Fee
 
 This is our [SpartanConnect](https://uncg.campuslabs.com/engage/organization/infosecclub) page with offical contact information.
 
-
-> Written with [StackEdit](https://stackedit.io/).
+## References
+https://www.geeksforgeeks.org/what-is-information-security/
