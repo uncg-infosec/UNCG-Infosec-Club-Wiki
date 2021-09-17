@@ -13,6 +13,8 @@
     - [Kali Linux](#kali-linux)
   - [Network Tools](#network-tools)
     - [Wireshark](#wireshark)
+- [Resources](#resources)
+  - [PicoCTF](#picoctf)
 - [Club Links](#links)
 
 ## Introduction
@@ -92,6 +94,12 @@ If you have an idea for an event that you think would be beneficial to the UNCG 
 ### Network Tools
 
 #### Wireshark
+
+(pending write-up)
+
+## Resources
+
+### PicoCTF
 
 (pending write-up)
 
