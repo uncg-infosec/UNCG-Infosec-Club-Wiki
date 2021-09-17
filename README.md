@@ -8,6 +8,11 @@
   - [Training](#technology-and-information-security-training)
   - [Guest Speakers](#voices-of-the-industry)
   - [CTF](#capture-the-flag-ctf-events)
+- [Common Tools](#tools-of-the-trade)
+  - [Secure OS'es](#secure-oses)
+    - [Kali Linux](#kali-linux)
+  - [Network Tools](#network-tools)
+    - [Wireshark](#wireshark)
 - [Club Links](#links)
 
 ## Introduction
@@ -42,7 +47,7 @@ Infosec revolves around 3 main concepts that are known as the CIA (no, not *that
 
 ### Security Measures
 
-(under construction)
+(pending write-up)
 
 \**Phew*\* Now that that's out of the way, lets move on to the fun stuff...
 
@@ -62,25 +67,35 @@ There is nothing like the real deal! The world of information security is consta
 
 #### Capture The Flag (CTF) events
 
-(under construction)
+(pending write-up)
 
-#### Lab Shenanigans
+#### Lab shenanigans
 
 Did you know that InfoSec has a dedicated lab specifically for the express purpose of building, testing, and possibly breaking software and technology? That's right! We will often meet in our secret InfoSec lab located in the Petty building so that we can get hands-on experience with the tools-of-the-trade, allowing everyone free access to the proper tools needed to explore information security. 
 
-#### Local and Online Events
+#### Local and online events
 
-(under construction)
+(pending write-up)
 
 #### Have an idea for an event?
 
 If you have an idea for an event that you think would be beneficial to the UNCG InfoSec community, [reach out to us via email](mailto:admesa@uncg.edu), or just bring it up to an officer during one of our meetings and we will be more than happy to look into it!
+    
+## Tools of the trade
+
+### Secure OS'es
+
+#### Kali Linux
+
+(pending write-up)
+
+### Network Tools
+
+#### Wireshark
+
+(pending write-up)
 
 ## Links
-
-### Homepage
-
-(under construction)
 
 ### Slack
 
