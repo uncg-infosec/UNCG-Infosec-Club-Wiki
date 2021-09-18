@@ -14,6 +14,7 @@
   - [Miscellaneous Command Line Tools](#miscellaneous-command-line-tools)
     - [Vim](#vim)
 - [Resources](#resources)
+  - [Youtube Channels](#youtube-channels)
   - [PicoCTF](#picoctf)
 - [Club Links](#links)
 
@@ -104,6 +105,14 @@ If you have an idea for an event that you think would be beneficial to the UNCG 
 Vim is a terminal based text editor, and for those who spend a lot of time on the command line, it is much akin to a hammer for a carpenter. Life would just be that much more difficult without it. The great thing about Vim, is not only that it is evergreen and stable, but it (or its predecessor Vi) is almost always installed on most Linux machines you will come accross. Any time you need to edit a file in a command line environment, Vim has your back. Vim also has a robust community of users who have extended Vim's usability with external modules and plugins that allow Vim to go far beyond its normal use. That said, Vim's largest drawback - and the reason it scares most initial users away - is because it uses a paradigm that isn't really reflected anywhere else. While it can be very difficult for initial users to adopt Vim's unique command style/syntax, with practice, multi-step tasks become a breeze!
 
 ## Resources
+
+### Youtube Channels
+
+- [David Bombal](https://www.youtube.com/c/DavidBombal)
+- [NetworkChuck](https://www.youtube.com/c/NetworkChuck)
+- [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)
+- [John Hammond](https://www.youtube.com/c/JohnHammond010)
+- [Null Byte](https://www.youtube.com/c/NullByteWHT)
 
 ### PicoCTF
 
