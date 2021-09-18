@@ -113,6 +113,7 @@ Vim is a terminal based text editor, and for those who spend a lot of time on th
 - [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)
 - [John Hammond](https://www.youtube.com/c/JohnHammond010)
 - [Null Byte](https://www.youtube.com/c/NullByteWHT)
+- [Professor Messer](https://www.youtube.com/c/professormesser)
 
 ### PicoCTF
 
