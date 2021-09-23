@@ -9,7 +9,6 @@
 - [Common Tools](#tools-of-the-trade)
 - [Resources](#resources)
   - [Youtube Channels](#youtube-channels)
-  - [PicoCTF](#picoctf)
 - [Club Links](#links)
 
 ## Introduction
@@ -62,15 +61,15 @@ Everyone needs a refresher once in a while, so it can be expected that there wil
 
 There is nothing like the real deal! The world of information security is constantly evolving, and it is for this reason that it is always important to hear up to date information from those leading industry professionals who are heading the charge in the professional realm. Knowing this, we always are looking to invite guest speakers who are willing to share their knowledge with us. (If you know someone in the information security realm who you believe would be apt and willing to be a guest speaker at an infosec meeting, [let us know via email](mailto:admesa@uncg.edu)!)
 
-#### Capture The Flag (CTF) events
-
-(pending write-up)
-
 #### Lab shenanigans
 
 Did you know that InfoSec has a dedicated lab specifically for the express purpose of building, testing, and possibly breaking software and technology? That's right! We will often meet in our secret InfoSec lab located in the Petty building so that we can get hands-on experience with the tools-of-the-trade, allowing everyone free access to the proper tools needed to explore information security. 
 
 #### Local and online events
+
+(pending write-up)
+
+#### Capture The Flag (CTF) events
 
 (pending write-up)
 
@@ -92,10 +91,6 @@ Initially, we intended to create a small list of tools so that members can find 
 - [John Hammond](https://www.youtube.com/c/JohnHammond010)
 - [Null Byte](https://www.youtube.com/c/NullByteWHT)
 - [Professor Messer](https://www.youtube.com/c/professormesser)
-
-### PicoCTF
-
-(pending write-up)
 
 ## Links
 
