@@ -90,11 +90,15 @@ If you have an idea for an event that you think would be beneficial to the UNCG 
 
 #### Kali Linux
 
+#### Parrot OS
+
 (pending write-up)
 
 ### Network Tools
 
 #### Wireshark
+
+#### Nmap
 
 (pending write-up)
 
