@@ -71,7 +71,7 @@ Did you know that InfoSec has a dedicated lab specifically for the express purpo
 
 #### Capture The Flag (CTF) events
 
-Capture The Flag events are events where individuals or groups attempt to overcome a series of challenges of increasing difficulty, where the goal of the challenge is to retrieve a value (referred to as a 'flag') that can be submitted to a participating CTF server in exchange for a value of points. Given that CTF's can be relatively complex, we have more information about CTF's in our events wiki [here](https://github.com/uncg-infosec/UNCG-InfoSec-Club-Event-Wiki/blob/main/README.md).
+Capture The Flag events are events where individuals or groups attempt to overcome a series of challenges of increasing difficulty, where the goal of the challenge is to retrieve a value (referred to as a 'flag') that can be submitted to a participating CTF server in exchange for a value of points. Given that CTF's can be relatively complex, we have more information about CTF's in our events wiki [here](https://github.com/uncg-infosec/UNCG-InfoSec-Club-Event-Wiki/blob/main/README.md#capture-the-flag-ctf).
 
 #### Have an idea for an event?
 
@@ -79,7 +79,7 @@ If you have an idea for an event that you think would be beneficial to the UNCG 
     
 ## Tools of the trade
 
-Initially, we intended to create a small list of tools so that members can find the resources necessary to participate in the world of InfoSec, but the list just kept growing! It has moved to a new Git, you can find it [here](https://github.com/uncg-infosec/UNCG-Infosec-Club-Tools-Wiki/blob/main/README.md#capture-the-flag-ctf)!
+Initially, we intended to create a small list of tools so that members can find the resources necessary to participate in the world of InfoSec, but the list just kept growing! It has moved to a new Git, you can find it [here](https://github.com/uncg-infosec/UNCG-Infosec-Club-Tools-Wiki/blob/main/README.md)!
 
 ## Resources
 
