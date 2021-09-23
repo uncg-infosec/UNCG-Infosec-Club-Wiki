@@ -7,12 +7,6 @@
   - [Guest Speakers](#voices-of-the-industry)
   - [CTF](#capture-the-flag-ctf-events)
 - [Common Tools](#tools-of-the-trade)
-  - [Secure OS'es](#secure-oses)
-    - [Kali Linux](#kali-linux)
-  - [Network Tools](#network-tools)
-    - [Wireshark](#wireshark)
-  - [Miscellaneous Command Line Tools](#miscellaneous-command-line-tools)
-    - [Vim](#vim)
 - [Resources](#resources)
   - [Youtube Channels](#youtube-channels)
   - [PicoCTF](#picoctf)
@@ -86,27 +80,7 @@ If you have an idea for an event that you think would be beneficial to the UNCG 
     
 ## Tools of the trade
 
-### Secure OS'es
-
-#### Kali Linux
-
-#### Parrot OS
-
-(pending write-up)
-
-### Network Tools
-
-#### Wireshark
-
-#### Nmap
-
-(pending write-up)
-
-### Miscellaneous Command Line Tools
-
-#### Vim
-
-Vim is a terminal based text editor, and for those who spend a lot of time on the command line, it is much akin to a hammer for a carpenter. Life would just be that much more difficult without it. The great thing about Vim, is not only that it is evergreen and stable, but it (or its predecessor Vi) is almost always installed on most Linux machines you will come accross. Any time you need to edit a file in a command line environment, Vim has your back. Vim also has a robust community of users who have extended Vim's usability with external modules and plugins that allow Vim to go far beyond its normal use. That said, Vim's largest drawback - and the reason it scares most initial users away - is because it uses a paradigm that isn't really reflected anywhere else. While it can be very difficult for initial users to adopt Vim's unique command style/syntax, with practice, multi-step tasks become a breeze!
+Initially, we intended to create a small list of tools so that members can find the resources necessary to participate in the world of InfoSec, but the list just kept growing! It has moved to a new Git, you can find it [here](https://github.com/uncg-infosec/UNCG-Infosec-Club-Tools-Wiki/blob/main/README.md)!
 
 ## Resources
 
