@@ -79,7 +79,7 @@ If you have an idea for an event that you think would be beneficial to the UNCG 
     
 ## Tools of the trade
 
-Initially, we intended to create a small list of tools so that members can find the resources necessary to participate in the world of InfoSec, but the list just kept growing! It has moved to a new Git, you can find it [here](https://github.com/uncg-infosec/UNCG-Infosec-Club-Tools-Wiki/blob/main/README.md)!
+Initially, we intended to create a small list of tools so that members can find the resources necessary to participate in the world of InfoSec, but the list just kept growing! It has moved to a new Git, you can find it [here](https://github.com/uncg-infosec/UNCG-Infosec-Club-Tools-Wiki/blob/main/README.md#capture-the-flag-ctf)!
 
 ## Resources
 
