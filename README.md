@@ -71,7 +71,7 @@ Did you know that InfoSec has a dedicated lab specifically for the express purpo
 
 #### Capture The Flag (CTF) events
 
-(pending write-up)
+Capture The Flag events are events where individuals or groups attempt to overcome a series of challenges of increasing difficulty, where the goal of the challenge is to retrieve a value (referred to as a 'flag') that can be submitted to a participating CTF server in exchange for a value of points. Given that CTF's can be relatively complex, we have more information about CTF's in our events wiki [here](https://github.com/uncg-infosec/UNCG-InfoSec-Club-Event-Wiki/blob/main/README.md).
 
 #### Have an idea for an event?
 
